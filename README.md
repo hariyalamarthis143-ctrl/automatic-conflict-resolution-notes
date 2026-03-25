@@ -1,4 +1,4 @@
-<img width="1264" height="842" alt="image" src="https://github.com/user-attachments/assets/8b04e65e-e546-4c64-a653-2cee828af751" /># Automatic Conflict Resolution System for Notes
+
 
 ## 📖 Overview
 This project aims to automatically detect and resolve conflicts in note-taking applications when multiple edits occur across different devices. It ensures data consistency, prevents loss of information, and improves user experience.
