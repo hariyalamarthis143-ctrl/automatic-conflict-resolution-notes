@@ -15,7 +15,7 @@ This project aims to automatically detect and resolve conflicts in note-taking a
 ---
 
 ##  System Workflow
-![Diagram](https://chatgpt.com/backend-api/estuary/content?id=file_000000009c2c71fab2331f6994f1fbc6&ts=492897&p=fs&cid=1&sig=d55c112166f764f795172827210b806c04ebdbc807c1a55df966672e2a38a80a&v=0)
+![Diagram]("C:\Users\Hari Krishna\Downloads\Gemini_Generated_Image_sdfypmsdfypmsdfy.png")
 
 ---
 
